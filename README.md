@@ -1,7 +1,6 @@
 # Caffe
 ============================
 A copy of caffe on 10/09/2015.
-
 liwen@vsion.ee.ethz.ch
 ============================
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
